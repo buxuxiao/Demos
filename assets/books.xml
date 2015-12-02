@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+<book auther="tom">
+ <id><![CDATA[1001]]></id>
+ <name><![CDATA[think in java]]></name>
+</book ><book auther="catalina">
+ <id><![CDATA[1002]]></id>
+ <name><![CDATA[we need json]]></name>
+</book>
